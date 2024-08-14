@@ -1,10 +1,11 @@
 # FAQ
-- [Goal](#goal)
-- [Difference between ESDoc and JSDoc](#difference-between-esdoc-and-jsdoc)
-- [Supported Environment](#supported-environment)
-- [Import Path In Documentation](#import-path-in-documentation)
-- [Who's Using ESDoc](#who-s-using-esdoc)
-- [Articles](#articles)
+- [FAQ](#faq)
+  - [Goal](#goal)
+  - [Difference between ESDoc and JSDoc](#difference-between-esdoc-and-jsdoc)
+  - [Supported Environment](#supported-environment)
+  - [Import Path In Documentation](#import-path-in-documentation)
+  - [Who's Using ESDoc](#whos-using-esdoc)
+  - [Articles](#articles)
 
 ## Goal
 ESDoc has two goals.
@@ -53,7 +54,7 @@ And [more](https://github.com/search?o=desc&q=esdoc+filename%3Apackage.json+-use
 ## Articles
 - English
   - [Write a documentation React and ES6 project by ESDoc | en.blog.koba04](http://en.blog.koba04.com/2015/06/28/esdoc-documentation-for-react-and-es6/)
-  - [ECMAScript 6 documentation generators | stackoverflow](http://stackoverflow.com/questions/27334309/ecmascript-6-documentation-generators)
+  - [ECMAScript 6 documentation generators | stackoverflow](https://web.archive.org/web/20151030050400/https://stackoverflow.com/questions/27334309/ecmascript-6-documentation-generators)
   - [ESDoc – A Documentation Generator for JavaScript(ES6) | Hacker News](https://news.ycombinator.com/item?id=10002867)
   - [Document ES6 with ESDoc](http://jonathancreamer.com/document-es6-with-esdoc/)
   - [ES2015 | Web | Google Developers](https://developers.google.com/web/shows/ttt/series-2/es2015)
